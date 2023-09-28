@@ -17,6 +17,9 @@ bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
 
+# 민감 정보
+application.properties
+
 ### IntelliJ IDEA ###
 .idea
 *.iws
