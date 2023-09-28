@@ -11,7 +11,7 @@ import java.util.List;
 
 @Repository
 public interface AdminRepository extends JpaRepository<Admin, String> {
-     // DGB 토큰 보유량
+    // DGB 토큰 보유량
     @Query(value = "SELECT SUM(e.token_value)\n" +
             "FROM admin e\n" +
             "WHERE e.admin_id=:adminid", nativeQuery = true)
