@@ -12,7 +12,7 @@
 
 <br/>
 시스템 구성도
-<br/> <img src="https://postimg.cc/yg8CKZkp" width="740" height="400">
+<br/> ![대체 텍스트](img/platform%20architecture.png)
 
 <br/>
 시스템 구성도
