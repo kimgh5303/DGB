@@ -8,5 +8,5 @@
 | 제승완   | 백엔드       | Flask                       | LLM 기반 보고서 생성 프로그램 개발 |
 
 시스템 구성도
-<br/> <img src="https://i.postimg.cc/gkz9THzj/image.png" width="400" height="800">
+<br/> <img src="https://i.postimg.cc/gkz9THzj/image.png" width="800" height="400">
 
