@@ -11,12 +11,12 @@
 | 제승완   | 백엔드       | Flask                          | LLM 기반 보고서 생성 프로그램 개발 |
 
 <br/>
-시스템 구성도
-<br/> <img src="img/platform architecture.png" width="740" height="400">
+플랫폼 구성도
+<br/> <img src="img/platform architecture.png" width="500" height="400">
 
 <br/>
 시스템 구성도
-<br/> <img src="https://i.postimg.cc/gkz9THzj/image.png" width="740" height="400">
+<br/> <img src="img/system architecture.png" width="700" height="400">
 
 <br/> 
 페이지 화면
