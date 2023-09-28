@@ -8,5 +8,5 @@
 | 제승완   | 백엔드       | Flask                       | LLM 기반 보고서 생성 프로그램 개발 |
 
 시스템 구성도
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Octocat](https://i.postimg.cc/gkz9THzj/image.png)https://i.postimg.cc/gkz9THzj/image.png" width="200" height="200">
+<img src="https://i.postimg.cc/gkz9THzj/image.png" width="200" height="200">
 
