@@ -17,7 +17,7 @@
 <br>
 플랫폼 구성도
 
-<br/> <img src="img/platform architecture.png" width="500" height="400">
+<br/> <img src="img/platform architecture.png" width="400" height="400">
 
 
 <br>
