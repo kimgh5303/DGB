@@ -30,10 +30,10 @@
 <img src="img/ESG 홈페이지.png" width="700" height="400">
 
 <h3>ESG 회사 목록</h3>
-<img src="img/ESG 회사 목록.png" width="600" height="400">
+<img src="img/ESG 회사 목록.png" width="700" height="400">
 
 <h3>ESG 통계</h3>
-<img src="img/ESG 통계.png" width="600" height="400">
+<img src="img/ESG 통계.png" width="700" height="400">
 
 <h3>ESG 툴 / ESG 보고서 생성</h3>
 <div style="display: flex; justify-content: space-between;">
