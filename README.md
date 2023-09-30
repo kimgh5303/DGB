@@ -15,16 +15,28 @@
 
 
 <br>
-플랫폼 구성도
-
-<br/> <img src="img/platform architecture.png" width="400" height="400">
+<h2>플랫폼 구성도</h2>
+<img src="img/platform architecture.png" width="400" height="400">
 
 
 <br>
-시스템 구성도
-
-<br/> <img src="img/system architecture.png" width="700" height="400">
+<h2>시스템 구성도</h2>
+<img src="img/system architecture.png" width="700" height="400">
 
 
 <br> 
-페이지 화면
+<h2>페이지 화면</h2>
+<h3>ESG 홈페이지</h3>
+<img src="img/ESG 홈페이지.png" width="700" height="400">
+
+<h3>ESG 회사 목록</h3>
+<img src="img/ESG 회사 목록.png" width="600" height="400">
+
+<h3>ESG 통계</h3>
+<img src="img/ESG 통계.png" width="600" height="400">
+
+<h3>ESG 툴 / ESG 보고서 생성</h3>
+<div style="display: flex; justify-content: space-between;">
+  <img src="img/ESG 툴.png" width="500" height="400">
+  <img src="img/ESG 보고서 생성.png" width="500" height="400">
+</div>
