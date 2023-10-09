@@ -24,6 +24,11 @@
 <img src="img/system architecture.png" width="700" height="400">
 
 
+<br>
+<h2>DB 테이블</h2>
+<img src="img/DB 테이블.png" width="500" height="500">
+
+
 <br> 
 <h2>페이지 화면</h2>
 <h3>ESG 홈페이지</h3>
