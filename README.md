@@ -2,9 +2,24 @@
 
 <br>
 
-주제 : 블록체인과 인공지능을 활용한 사회구성원 모두가 참여할 수 있는 ESG 플랫폼
+## 프로젝트 주제
+블록체인과 인공지능을 활용한 사회구성원 모두가 참여할 수 있는 ESG 플랫폼
 
 <br>
+
+## 프로젝트 기간
+| 구분 | 기간 | 총 기간 | 비고 |
+| -- | -- | -- | -- |
+| 전체 기간 | 2022.09.26 ~ 2022.06.27 | 9개월 |  |
+| 예/본선 | 2022.09.26 ~ 2022.11.22 | 2개월 | 블록체인과 인공지능을 활용한 대출 심사 서비스 |
+| 디지털 인재 양성과정 | 2023.02.07 ~ 2023.03.03 | 1개월 | 네트워크, 클라우드, 서버리스에 대한 이해 |
+| 결승 | 2023.03.16 ~ 2023.06.27 | 3개월 | 주제와 동일 |
+| 실질 개발 | 2023.04.10 ~ 2023.06.27 | 2개월 |  |
+
+
+<br>
+
+## 팀원 소개
 
 | 이름   | 역할                  | 스택                       | 기타                               |
 |---------|------------------------|-----------------------------|-----------------------------------|
@@ -15,33 +30,33 @@
 
 
 <br>
-<h2>플랫폼 구성도</h2>
-<img src="img/platform architecture.png" width="400" height="400">
 
-
-<br>
-<h2>시스템 구성도</h2>
-<img src="img/system architecture.png" width="700" height="400">
-
+## 플랫폼 구성도
+![플랫폼 구성도](img/platform%20architecture.png)
 
 <br>
-<h2>DB 테이블</h2>
-<img src="img/DB 테이블.png" width="500" height="500">
+
+## 시스템 구성도
+![시스템 구성도](img/system%20architecture.png)
+
+<br>
+
+## DB 테이블
+![DB 테이블](img/DB%20테이블.png)
 
 
 <br> 
-<h2>페이지 화면</h2>
-<h3>ESG 홈페이지</h3>
-<img src="img/ESG 홈페이지.png" width="700" height="400">
 
-<h3>ESG 회사 목록</h3>
-<img src="img/ESG 회사 목록.png" width="700" height="400">
+## 페이지 화면
+### ESG 홈페이지
+![ESG 홈페이지](img/ESG%20홈페이지.png)
 
-<h3>ESG 통계</h3>
-<img src="img/ESG 통계.png" width="700" height="400">
+### ESG 회사 목록
+![ESG 회사 목록](img/ESG%20회사%20목록.png)
 
-<h3>ESG 툴 / ESG 보고서 생성</h3>
-<div style="display: flex; justify-content: space-between;">
-  <img src="img/ESG 툴.png" width="500" height="400">
-  <img src="img/ESG 보고서 생성.png" width="500" height="400">
-</div>
+### ESG 통계
+![ESG 통계](img/ESG%20통계.png)
+
+### ESG 툴 / ESG 보고서 생성
+![ESG 툴](img/ESG%20툴.png) | ![ESG 보고서 생성](img/ESG%20보고서%20생성.png)
+---|---|
